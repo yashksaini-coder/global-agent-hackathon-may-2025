@@ -51,7 +51,7 @@ Resources for each sponsor are available in the [resources](/resources) folder.
 
 ## 🚀 How to Participate
 
-1. **Submit your project** by creating a GitHub issue in this repo following the provided [template](./.github/submission-template.md).
+1. **Submit your project** by creating a GitHub issue in this repo following the provided [template](./.github/ISSUE_TEMPLATE/submission-template.md).
 2. **Get category assignment**
     - The Hackathon team will review your submission and assign it to a prize category:
     - You can update your issue as you build, and we'll update the prize category accordingly.
@@ -103,9 +103,9 @@ Your submission will be judged on:
 - **Code Quality**: Error-free execution and passing basic review.
 - **Completeness**: Core functionality implemented as described in your original submission.
 
-## 🤝 Want to Partner or Judge?
+## 🤝 Want to Partner?
 
-If you're an AI company or want to help shape the next generation of Agent builders - we'd love to work with you!
+If you're an AI company and want to help shape the next generation of Agent builders - we'd love to work with you!
 
 Reach out to support@agno.com to get involved.
 
