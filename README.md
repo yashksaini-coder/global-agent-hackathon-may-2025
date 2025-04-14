@@ -1,5 +1,5 @@
 <div align="center" id="top">
-    <img src="./.assets/may-2025-banner.svg" alt="Agno" width="750" height="auto">
+  <img src="./.assets/may-2025-banner.svg" alt="Agno" width="750" height="auto">
 </div>
 
 # 🌐 Global Agent Hackathon
