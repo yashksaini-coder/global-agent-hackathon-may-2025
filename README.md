@@ -23,19 +23,19 @@ We're giving away $20,000 in cash and credits for your favorite AI tools for the
 - 🥇 1 winner: $2,000
 - 🏆 **GRAND PRIZE**: $5,000 🏆
 
+#### Best use of Browser Use ([see details](/resources/browser-use.md)):
+- Details coming soon
+
 ### Credits:
 
 #### Best use of Firecrawl ([see details](/resources/firecrawl.md)):
-- Coming soon
+- Details coming soon
 
 #### Best use of Mem0 ([see details](/resources/mem0.md)):
-- Coming soon
+- Details coming soon
 
 #### Best use of Graphlit ([see details](/resources/graphlit.md)):
-- Coming soon
-
-#### Best use of Browser Use ([see details](/resources/browser-use.md)):
-- Coming soon
+- Details coming soon
 
 ### Special Recognition
 The **top 5 projects** will be featured in the trending [Awesome LLM Apps repo](https://github.com/Shubhamsaboo/awesome-llm-apps), giving your work massive visibility in the AI community.
@@ -56,10 +56,29 @@ Resources for each sponsor are available in the [resources](/resources) folder.
     - The Hackathon team will review your submission and assign it to a prize category:
     - You can update your issue as you build, and we'll update the prize category accordingly.
     - Prize categories can be updated until the hackathon ends.
-    - Categories include Best use of Agno, Firecrawl, Mem0, Graphlit, Browser Use, and Best Overall Project.
+    - Categories include Best use of Agno, Firecrawl, Mem0, Graphlit and Browser Use.
 3. **Build your project** and submit a PR for in the submissions folder - we'll review, judge, and provide feedback.
 4. **When approved**, you join the pool to win the assigned cash prize and/or credits.
+    - Checkout the [How to Win](#how-to-win) section for more details.
 5. **Winning projects** will be moved to the **winners** folder.
+
+## 🏆 How to Win
+
+Your submission will be judged on:
+
+- **Completed PR** with working code in the Hackathon GitHub repo.
+    - A **judge** will review the PR and provide feedback.
+    - Once approved, the PR will be merged and the project will be eligible for the prize pool.
+- **Demo Video** (2–3 mins) showing your agent in action.
+- **Comprehensive README.md** including:
+  - Overview of the idea
+  - Explanation of how it works
+  - Technologies/tools used
+  - All setup instructions (API keys, signups, etc.)
+- **Code Quality**: Error-free execution and passing basic review.
+- **Completeness**: Core functionality implemented as described in your original submission.
+
+Feel free to share your progress on X or LinkedIn with the hashtag #GlobalAgentHackathon — even small updates can get you noticed and help build community momentum. This is completely optional, but always welcome and appreciated!
 
 ## 📌 Submission Criteria
 
@@ -86,22 +105,6 @@ Include the following in your submission:
 - **Team Lead:** GitHub handle and role
 - **Team Members:** GitHub handles and roles
 - **Background/Experience:** Brief team background
-
-## 🏆 How to Win
-
-Your submission will be judged on:
-
-- **Completed PR** with working code in the Hackathon GitHub repo.
-    - A **judge** will review the PR and provide feedback.
-    - Once approved, the PR will be merged and the project will be eligible for the prize pool.
-- **Demo Video** (2–3 mins) showing your agent in action.
-- **Comprehensive README.md** including:
-  - Overview of the idea
-  - Explanation of how it works
-  - Technologies/tools used
-  - All setup instructions (API keys, signups, etc.)
-- **Code Quality**: Error-free execution and passing basic review.
-- **Completeness**: Core functionality implemented as described in your original submission.
 
 ## 🤝 Want to Partner?
 
