@@ -53,8 +53,9 @@ The **top 5 projects** will be featured in the trending [Awesome LLM Apps repo](
     - You can update your issue as you build, and we'll update the prize category accordingly.
     - Prize categories can be updated until the hackathon ends.
     - Categories include Best use of Agno, Firecrawl, Mem0, Graphlit, Browser Use, and Best Overall Project.
-3. **Build your project** and submit a PR for your issue - we'll review, judge, and provide feedback.
+3. **Build your project** and submit a PR for in the submissions folder - we'll review, judge, and provide feedback.
 4. **When approved**, you join the pool to win the assigned cash prize and/or credits.
+5. **Winning projects** will be moved to the **winners** folder.
 
 ## 📌 Submission Criteria
 
