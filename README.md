@@ -42,7 +42,7 @@ The **top 5 projects** will be featured in the trending [Awesome LLM Apps repo](
 
 ## 📚 Resources
 
-Resources for each sponsor are available in the [Resources](/resources) folder.
+Resources for each sponsor are available in the [resources](/resources) folder.
 
 ## ⏱️ Timeline
 
