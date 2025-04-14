@@ -13,6 +13,8 @@
   <a href="https://github.com/agno-agi/agno/stargazers">🌟 Star Us</a>
 </div>
 
+<br />
+
 [Agno](https://docs.agno.com) is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 
 ## 💰 Build something cool with Agno to win up to $20,000 in cash

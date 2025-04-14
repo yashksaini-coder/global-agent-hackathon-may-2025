@@ -16,7 +16,7 @@ We're giving away $20,000 in cash and credits for your favorite AI tools for the
 
 ### Cash Prizes:
 
-#### Best Use of Agno ([see details](/sponsors/agno.md)):
+#### Best Use of Agno ([see details](/resources/agno.md)):
 - 🏅 10 winners: $300 each
 - 🥉 10 winners: $500 each
 - 🥈 5 winners: $1,000 each
@@ -25,20 +25,24 @@ We're giving away $20,000 in cash and credits for your favorite AI tools for the
 
 ### Credits:
 
-#### Best use of Firecrawl ([see details](/sponsors/firecrawl.md)):
+#### Best use of Firecrawl ([see details](/resources/firecrawl.md)):
 - Coming soon
 
-#### Best use of Mem0 ([see details](/sponsors/mem0.md)):
+#### Best use of Mem0 ([see details](/resources/mem0.md)):
 - Coming soon
 
-#### Best use of Graphlit ([see details](/sponsors/graphlit.md)):
+#### Best use of Graphlit ([see details](/resources/graphlit.md)):
 - Coming soon
 
-#### Best use of Browser Use ([see details](/sponsors/browser-use.md)):
+#### Best use of Browser Use ([see details](/resources/browser-use.md)):
 - Coming soon
 
 ### Special Recognition
 The **top 5 projects** will be featured in the trending [Awesome LLM Apps repo](https://github.com/Shubhamsaboo/awesome-llm-apps), giving your work massive visibility in the AI community.
+
+## 📚 Resources
+
+Resources for each sponsor are available in the [Resources](/resources) folder.
 
 ## ⏱️ Timeline
 
