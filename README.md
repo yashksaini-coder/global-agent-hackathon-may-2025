@@ -8,7 +8,7 @@ Welcome to the May 2025 edition of the Global Agent Hackathon!
 
 Join us for a month-long, open-source AI Agent Hackathon — open to all builders and dreamers working on agents, RAG, tool use, and multi-agent systems.
 
-Powered by [Agno](https://agno.link/gh), [Firecrawl](https://www.firecrawl.dev/), [Mem0](http://mem0.ai), [Unwind AI](https://www.theunwindai.com), [Browser Use](https://browser-use.com), [Graphlit](https://www.graphlit.com/), and more.
+Powered by [Agno](https://agno.link/gh), [Firecrawl](https://www.firecrawl.dev/), [Mem0](http://mem0.ai), [Unwind AI](https://www.theunwindai.com), [Browser Use](https://browser-use.com), [mcp.run](https://www.mcp.run), [Graphlit](https://www.graphlit.com/), [Lutra AI](https://www.lutra.ai), [Potpie](https://potpie.ai) and more.
 
 ## 💰 Build something cool, win up to $20,000 in cash and credits
 
@@ -52,6 +52,9 @@ The $150 prizes will be awarded on a rolling basis. The $500 and $2,500 prizes w
 - Please [see details](/resources/graphlit.md)
 
 #### Best use of Lutra AI ([see details](/resources/lutra-ai.md)):
+- Details coming soon
+
+#### Best use of Potpie ([see details](/resources/potpie.md)):
 - Details coming soon
 
 ### Special Recognition
