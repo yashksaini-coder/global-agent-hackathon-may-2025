@@ -2,7 +2,7 @@
   <img src="./.assets/may-2025-banner.svg" alt="Agno" width="750" height="auto">
 </div>
 
-# 🌐 Global Agent Hackathon
+# The Global Agent Hackathon
 
 Welcome to the May 2025 edition of the Global Agent Hackathon!
 
