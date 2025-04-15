@@ -40,27 +40,27 @@ The $150 prizes will be awarded on a rolling basis. The $500 and $2,500 prizes w
 
 #### Best use of Firecrawl ([see details](/resources/firecrawl.md)):
 
-Details coming soon
+- Details coming soon
 
 #### Best use of Mem0 ([see details](/resources/mem0.md)):
 
-Details coming soon
+- Details coming soon
 
 #### MCP Run ([see details](/resources/mcp-run.md)):
 
-[MCP.Run](https://www.mcp.run) is offering a free 3 month pro account to any participant, using `AGNOHACK2025` at checkout. Thank you MCP.Run for sponsoring the hackathon!
+- [MCP.Run](https://www.mcp.run) is offering a free 3 month pro account to any participant, using `AGNOHACK2025` at checkout. Thank you MCP.Run for sponsoring the hackathon!
 
 #### Best use of Graphlit:
 
-Please [see details](/resources/graphlit.md)
+- Please [see details](/resources/graphlit.md)
 
 #### Best use of Lutra AI ([see details](/resources/lutra-ai.md)):
 
-Details coming soon
+- Details coming soon
 
 #### Best use of Potpie ([see details](/resources/potpie.md)):
 
-Details coming soon
+- Details coming soon
 
 ### Special Recognition
 The **top 5 projects** will be featured in the trending [Awesome LLM Apps repo](https://github.com/Shubhamsaboo/awesome-llm-apps), giving your work massive visibility in the AI community.
