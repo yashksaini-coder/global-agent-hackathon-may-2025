@@ -10,20 +10,20 @@ Join us for a month-long, open-source AI Agent Hackathon — open to all builder
 
 Powered by [Agno](https://agno.link/gh), [Firecrawl](https://www.firecrawl.dev/), [Mem0](http://mem0.ai), [Unwind AI](https://www.theunwindai.com), [Browser Use](https://browser-use.com), [mcp.run](https://www.mcp.run), [Graphlit](https://www.graphlit.com/), [Lutra AI](https://www.lutra.ai), [Potpie](https://potpie.ai) and more.
 
-## 💰 Build something cool, win up to $20,000 in cash and credits
+## 💰 Build something cool, win up to $25,000 in cash and credits
 
-We're giving away $20,000 in cash and credits for your favorite AI tools for the most ambitious Agent projects!
+We're giving away $25,000 in cash and credits for your favorite AI tools for the most ambitious Agent projects!
 
 ### Cash Prizes:
 
 #### Best Use of Agno ([see details](/resources/agno.md)):
 
 Projects showcasing the best use case of Agno will get following cash prizes:
-- 🏅 10 winners: $300 each
-- 🥉 10 winners: $500 each
-- 🥈 5 winners: $1,000 each
-- 🥇 1 winner: $2,000
 - 🏆 **GRAND PRIZE**: $5,000 🏆
+- 🥇 1 winner: $2,000
+- 🥈 5 winners: $1,000 each
+- 🥉 10 winners: $500 each
+- 🏅 10 winners: $300 each
 
 The $300, $500 and $1,000 prizes will be awarded on a rolling basis. The $2,000 and $5,000 prizes will be awarded at the end of the hackathon.
 
@@ -39,23 +39,28 @@ The $150 prizes will be awarded on a rolling basis. The $500 and $2,500 prizes w
 ### Credits:
 
 #### Best use of Firecrawl ([see details](/resources/firecrawl.md)):
-- Details coming soon
+
+Details coming soon
 
 #### Best use of Mem0 ([see details](/resources/mem0.md)):
-- Details coming soon
+
+Details coming soon
 
 #### MCP Run ([see details](/resources/mcp-run.md)):
 
 [MCP.Run](https://www.mcp.run) is offering a free 3 month pro account to any participant, using `AGNOHACK2025` at checkout. Thank you MCP.Run for sponsoring the hackathon!
 
 #### Best use of Graphlit:
-- Please [see details](/resources/graphlit.md)
+
+Please [see details](/resources/graphlit.md)
 
 #### Best use of Lutra AI ([see details](/resources/lutra-ai.md)):
-- Details coming soon
+
+Details coming soon
 
 #### Best use of Potpie ([see details](/resources/potpie.md)):
-- Details coming soon
+
+Details coming soon
 
 ### Special Recognition
 The **top 5 projects** will be featured in the trending [Awesome LLM Apps repo](https://github.com/Shubhamsaboo/awesome-llm-apps), giving your work massive visibility in the AI community.
