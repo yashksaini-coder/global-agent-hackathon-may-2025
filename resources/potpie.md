@@ -32,9 +32,9 @@ Use Potpie with Agno’s MCP to inject deep codebase intelligence into your agen
 
 ## Building Custom Agents
 
-### Tooling 
+### Potpie Tools
 
-### Potpie Tool Documentation
+You can create custom agents from a single prompt on app.potpie.ai and those agents select the tools on their own, but sometimes we need to include or remove certain tools while iteration on the agent outputs, prompts might need to be updated to include specific guidance for their execution plan etc  For those times, here are the tools that Potpie agents use internally and a brief description about their usage. 
 
 - **get_code_from_probable_node_name**: Fetches code based on a likely node name match in the knowledge graph.
 - **get_code_from_multiple_node_ids**: Returns code snippets for a list of node IDs.
@@ -126,6 +126,7 @@ You can choose from the following agents:
 - For custom agents created on the Potpie dashboard, you can simply copy their Agent id using the copy button on the Custom Agent screen. 
 
 4. **Send Message**:
+
    - **API Path**: `/api/v2/project/{{project_id}}/message`
    - **Request Method**: POST
    - **Request Body**:
@@ -139,6 +140,9 @@ You can choose from the following agents:
      - `conversation_id`: The ID of the conversation created in the previous step.
      - `x-api-key`: Your API key (in the header).
 
+Note: 
+* Try to use the /parse API sparingly, every invocation of this API will trigger the processing step if the knowledge graph is not upto date.
+* We recommend that once you have a project in the 'ready' state, you hardcode the project id in this API, this avoids the added latency of parsing the codebase everytime unnecessarily. 
 
 
 ---
