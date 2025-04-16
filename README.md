@@ -69,7 +69,7 @@ All the prizes will be awarded at the end of the hackathon.
 
 ## Groq Credits
 
-Groq - the fastest inference provider in the world - is offering $10 in Groq API credits (millions of tokens for all available models, including Llama 4 Scout and Maverick) to any participant and $300 in Groq API credits to the best project built using Groq.
+Groq is the lowest cost inference provider with no tradeoffs on speed and they're offering $10 in Groq API credits to any participant (millions of tokens for all available models, including Llama 4 Scout and Maverick) and $300 in Groq API credits to the best project built using Groq.
 
 - [Fill out this form for $10 in Groq API credits](https://forms.gle/1pBpXsi2j8btk1Rd6)
 - Best use of Groq will get $300 in Groq API credits + feature on [Groq Applications Showcase](https://console.groq.com/docs/showcase-applications)
