@@ -36,6 +36,15 @@ Projects showcasing the best use case of Browser Use will get following cash pri
 
 The $150 prizes will be awarded on a rolling basis. The $500 and $2,500 prizes will be awarded at the end of the hackathon.
 
+#### Best use of Potpie 🥧 ([see details](/resources/potpie.md)):
+
+Projects showcasing the best use case of Browser Use will get following cash prizes:
+- 🏆 **GRAND PRIZE**: $200 🏆
+- 🥉 3 winners: $100 each
+- 🥈 5 winners: 3 months of Potpie Pro FREE! 
+
+All the prizes will be awarded at the end of the hackathon.
+
 ### Credits:
 
 #### Best use of Firecrawl ([see details](/resources/firecrawl.md)):
