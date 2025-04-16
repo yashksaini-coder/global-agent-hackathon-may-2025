@@ -10,13 +10,13 @@ Join us for a month-long, open-source AI Agent Hackathon — open to all builder
 
 Powered by [Agno](https://agno.link/gh), [Firecrawl](https://www.firecrawl.dev/), [Mem0](http://mem0.ai), [Unwind AI](https://www.theunwindai.com), [Browser Use](https://browser-use.com), [mcp.run](https://www.mcp.run), [Graphlit](https://www.graphlit.com/), [Lutra AI](https://www.lutra.ai), [Potpie](https://potpie.ai) and more.
 
-## 💰 Build something cool, win up to $25,000 in cash and credits
+## 💰 Build something cool, win over $25,000 in cash and credits
 
-We're giving away $25,000 in cash and credits for your favorite AI tools for the most ambitious Agent projects!
+Win over $25,000 in cash and credits for your favorite AI tools for the most ambitious Agent projects!
 
-### Cash Prizes:
+## Cash Prizes
 
-#### Best Use of Agno ([see details](/resources/agno.md)):
+### Best Use of Agno ([see details](/resources/agno.md)):
 
 Projects showcasing the best use case of Agno will get following cash prizes:
 - 🏆 **GRAND PRIZE**: $5,000 🏆
@@ -27,7 +27,7 @@ Projects showcasing the best use case of Agno will get following cash prizes:
 
 The $300, $500 and $1,000 prizes will be awarded on a rolling basis. The $2,000 and $5,000 prizes will be awarded at the end of the hackathon.
 
-#### Best use of Browser Use ([see details](/resources/browser-use.md)):
+### Best use of Browser Use ([see details](/resources/browser-use.md)):
 
 Projects showcasing the best use case of Browser Use will get following cash prizes:
 - 🏆 **GRAND PRIZE**: $2,500 🏆
@@ -36,7 +36,7 @@ Projects showcasing the best use case of Browser Use will get following cash pri
 
 The $150 prizes will be awarded on a rolling basis. The $500 and $2,500 prizes will be awarded at the end of the hackathon.
 
-#### Best use of Potpie 🥧 ([see details](/resources/potpie.md)):
+### Best use of Potpie 🥧 ([see details](/resources/potpie.md)):
 
 Projects showcasing the best use case of Potpie will get following cash prizes:
 - 🏆 **GRAND PRIZE**: $200 🏆
@@ -45,29 +45,29 @@ Projects showcasing the best use case of Potpie will get following cash prizes:
 
 All the prizes will be awarded at the end of the hackathon.
 
-### Credits:
+## Credits
 
-#### Best use of Firecrawl ([see details](/resources/firecrawl.md)):
-
-- Details coming soon
-
-#### Best use of Mem0 ([see details](/resources/mem0.md)):
+### Best use of Firecrawl ([see details](/resources/firecrawl.md)):
 
 - Details coming soon
 
-#### MCP Run ([see details](/resources/mcp-run.md)):
+### Best use of Mem0 ([see details](/resources/mem0.md)):
+
+Mem0 is offering pro plan for free for 3 months to the best project built using Mem0. (details coming soon)
+
+### MCP Run ([see details](/resources/mcp-run.md)):
 
 - [MCP.Run](https://www.mcp.run) is offering a free 3 month pro account to any participant, using `AGNOHACK2025` at checkout. Thank you MCP.Run for sponsoring the hackathon!
 
-#### Best use of Graphlit:
+### Best use of Graphlit:
 
 - Please [see details](/resources/graphlit.md)
 
-#### Best use of Lutra AI ([see details](/resources/lutra-ai.md)):
+### Best use of Lutra AI ([see details](/resources/lutra-ai.md)):
 
 - Details coming soon
 
-### Groq Credits:
+## Groq Credits
 
 Groq - the fastest inference provider in the world - is offering $10 in Groq API credits (millions of tokens for all available models, including Llama 4 Scout and Maverick) to any participant and $300 in Groq API credits to the best project built using Groq.
 
