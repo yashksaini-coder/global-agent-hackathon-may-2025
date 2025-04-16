@@ -2,7 +2,7 @@
 
 We’re thrilled to be part of the Global Agent Hackathon with Agno! 🧠⚙️
 
-We're offering **exclusive shoutouts and feature highlights** for the best use of [Potpie](https://github.com/potpie-ai/potpie) during the hackathon.
+We're offering **TBD** for the best use of [Potpie](https://github.com/potpie-ai/potpie) during the hackathon.
 
 Potpie is an **open-source agent platform** built specifically for developers and their codebases. It turns a single prompt into a powerful, context-aware agent that understands your entire repo.
 
