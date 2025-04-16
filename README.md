@@ -38,10 +38,10 @@ The $150 prizes will be awarded on a rolling basis. The $500 and $2,500 prizes w
 
 #### Best use of Potpie 🥧 ([see details](/resources/potpie.md)):
 
-Projects showcasing the best use case of Browser Use will get following cash prizes:
+Projects showcasing the best use case of Potpie will get following cash prizes:
 - 🏆 **GRAND PRIZE**: $200 🏆
 - 🥉 3 winners: $100 each
-- 🥈 5 winners: 3 months of Potpie Pro FREE! 
+- 🥈 5 winners: 3 months of Potpie Pro FREE!
 
 All the prizes will be awarded at the end of the hackathon.
 
@@ -67,9 +67,12 @@ All the prizes will be awarded at the end of the hackathon.
 
 - Details coming soon
 
-#### Best use of Potpie ([see details](/resources/potpie.md)):
+### Groq Credits:
 
-- Details coming soon
+Groq - the fastest inference provider in the world - is offering $10 in Groq API credits (millions of tokens for all available models, including Llama 4 Scout and Maverick) to any participant and $300 in Groq API credits to the best project built using Groq.
+
+- [Fill out this form for $10 in Groq API credits](https://forms.gle/1pBpXsi2j8btk1Rd6)
+- Best use of Groq will get $300 in Groq API credits + feature on [Groq Applications Showcase](https://console.groq.com/docs/showcase-applications)
 
 ### Special Recognition
 The **top 5 projects** will be featured in the trending [Awesome LLM Apps repo](https://github.com/Shubhamsaboo/awesome-llm-apps), giving your work massive visibility in the AI community.
