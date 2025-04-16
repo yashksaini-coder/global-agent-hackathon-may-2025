@@ -91,13 +91,12 @@ Resources for each sponsor are available in the [resources](/resources) folder.
 
 1. **Submit your project** by creating a GitHub issue in this repo following the provided [template](./.github/ISSUE_TEMPLATE/submission-template.md).
 2. **Get category assignment**
-    - The Hackathon team will review your submission, and add a label `in review`.
-    - The team will review your submission and assign it to a prize category.
+    - The Hackathon team will review your submission and assign it to a prize category.
     - You can update your issue as you build, and we'll update the prize category accordingly.
     - Prize categories can be updated until the hackathon ends.
     - Categories include Best use of Agno, Firecrawl, Mem0, Graphlit and Browser Use.
-3. **Build your project** and submit a PR for in the submissions folder - we'll review, judge, and provide feedback.
-4. **When approved**, you join the pool to win the assigned cash prize and/or credits.
+3. **Build your project** and submit a PR for your project in the submissions folder - we'll review, judge, and provide feedback. Note: you can start building as we review your submission.
+4. **When your PR is approved**, you join the pool to win the assigned cash prize and/or credits.
     - Checkout the [How to Win](#how-to-win) section for more details.
 5. **Winning projects** will be moved to the **winners** folder.
 
