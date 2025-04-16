@@ -2,11 +2,20 @@
 
 We’re thrilled to be part of the Global Agent Hackathon with Agno! 🧠⚙️
 
-We're offering **TBD** for the best use of [Potpie](https://github.com/potpie-ai/potpie) during the hackathon.
+We're offering the following prizes for the best use of [Potpie](https://github.com/potpie-ai/potpie) during the hackathon.
+
+Projects showcasing the best use case of Potpie will get following cash prizes:
+- 🏆 **GRAND PRIZE**: $200 🏆
+- 🥉 3 winners: $100 each
+- 🥈 5 winners: 3 months of Potpie Pro FREE
+
+All the prizes will be awarded at the end of the hackathon.
+
+How well you market your solution will also be judged in order to win the above prize.
 
 Potpie is an **open-source agent platform** built specifically for developers and their codebases. It turns a single prompt into a powerful, context-aware agent that understands your entire repo.
 
-You can pair Potpie with Agno's MCP server to build agents that:
+You can use Potpie to build agents that:
 - Understand and navigate your codebase with a knowledge graph
 - Perform debugging, system design, test generation, and more
 - Connect with tools like GitHub, Jira, and Linear to create dev workflows
