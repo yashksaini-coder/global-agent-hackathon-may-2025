@@ -47,15 +47,15 @@ All the prizes will be awarded at the end of the hackathon.
 
 ## Credits
 
-### Best use of Firecrawl ([see details](/resources/firecrawl.md)):
+### Best use of Firecrawl:
 
-- Details coming soon
+- [Details coming soon](/resources/firecrawl.md)
 
-### Best use of Mem0 ([see details](/resources/mem0.md)):
+### Best use of Mem0:
 
-Mem0 is offering pro plan for free for 3 months to the best project built using Mem0. (details coming soon)
+- Mem0 is offering pro plan for free for 3 months to the best project built using Mem0. ([details coming soon](/resources/mem0.md))
 
-### MCP Run ([see details](/resources/mcp-run.md)):
+### MCP Run:
 
 - [MCP.Run](https://www.mcp.run) is offering a free 3 month pro account to any participant, using `AGNOHACK2025` at checkout. Thank you MCP.Run for sponsoring the hackathon!
 
@@ -63,9 +63,9 @@ Mem0 is offering pro plan for free for 3 months to the best project built using 
 
 - Please [see details](/resources/graphlit.md)
 
-### Best use of Lutra AI ([see details](/resources/lutra-ai.md)):
+### Best use of Lutra AI:
 
-- Details coming soon
+- [Details coming soon](/resources/lutra-ai.md)
 
 ## Groq Credits
 
@@ -74,8 +74,9 @@ Groq - the fastest inference provider in the world - is offering $10 in Groq API
 - [Fill out this form for $10 in Groq API credits](https://forms.gle/1pBpXsi2j8btk1Rd6)
 - Best use of Groq will get $300 in Groq API credits + feature on [Groq Applications Showcase](https://console.groq.com/docs/showcase-applications)
 
-### Special Recognition
-The **top 5 projects** will be featured in the trending [Awesome LLM Apps repo](https://github.com/Shubhamsaboo/awesome-llm-apps), giving your work massive visibility in the AI community.
+## Special Recognitions
+
+- The **top 5 projects** will be featured in the trending [Awesome LLM Apps repo](https://github.com/Shubhamsaboo/awesome-llm-apps), giving your work massive visibility in the AI community.
 
 ## 📚 Resources
 
