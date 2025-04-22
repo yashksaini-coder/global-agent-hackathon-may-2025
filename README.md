@@ -47,6 +47,10 @@ All the prizes will be awarded at the end of the hackathon.
 
 ## Credits
 
+### Browserbase - $1200 value:
+
+- Startup plan for free for a whole year to the best project built using Browserbase
+
 ### Exa - Free $50 credits for everyone:
 
 Every participant gets free $50 Exa API credits! 
