@@ -55,7 +55,7 @@ Every participant gets free $50 Exa API credits!
 
 ### Best use of Firecrawl:
 
-- [Details coming soon](/resources/firecrawl.md)
+- Every one is entitled to 5k Firecrawl credits, enter the coupon code `hackathon5k` on the [Firecrawl Dashboard](https://www.firecrawl.dev/app/settings) 
 
 ### Best use of Mem0:
 
