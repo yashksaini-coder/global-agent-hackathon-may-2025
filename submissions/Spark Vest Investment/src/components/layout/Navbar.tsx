@@ -29,14 +29,14 @@ const Navbar = () => {
           "text-xl font-semibold",
           isSquidGame ? "text-[#ed1b76]" : "text-gradient"
         )}>
-          Spark Vest
+          SparkVest
         </Link>
         
         <div className="hidden md:flex items-center space-x-6">
           {user ? (
             <>
               <Link to="/dashboard" className={cn(
-                "transition-colors",  
+                "transition-colors",
                 isSquidGame ? "text-[#037a76] hover:text-[#ed1b76]" : "text-gray-300 hover:text-white"
               )}>
                 Dashboard

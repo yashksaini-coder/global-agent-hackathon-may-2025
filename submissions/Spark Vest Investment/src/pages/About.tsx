@@ -74,7 +74,7 @@ const About = () => {
 
       <div className="space-y-6">
         <h2 className="text-3xl font-bold text-center mb-8">Meet Our Team</h2>
-        <div className="flex flex-col justify-center items-center gap-6">
+        <div className="grid md:grid-cols-3 gap-6">
           {teamMembers.map((member) => (
             <Card key={member.id} className="glass-panel hover:scale-105 transition-transform duration-300">
               <div className="p-4 space-y-4">

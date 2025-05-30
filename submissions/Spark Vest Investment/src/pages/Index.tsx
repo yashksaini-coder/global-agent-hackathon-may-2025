@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { LineChart, Line, XAxis, YAxis, ResponsiveContainer, Tooltip } from 'recharts';
-import { Bitcoin, Send, TrendingUp, ExternalLink, Newspaper } from 'lucide-react';
+import { TrendingUp, ExternalLink } from 'lucide-react';
 import { format} from 'date-fns';
 import { useQuery } from '@tanstack/react-query';
 import { ScrollArea } from "@/components/ui/scroll-area";

@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { supabase } from '@/integrations/supabase/client';
@@ -42,8 +41,6 @@ const DeleteAccountDialog = () => {
     
     setLoading(true);
     try {
-      // In a real implementation, you would call an edge function to send the OTP email
-      // For this example, we'll simulate sending an OTP and move to verification step
       
       toast({
         title: "OTP Sent",
@@ -65,10 +62,7 @@ const DeleteAccountDialog = () => {
   const handleDeleteAccount = async () => {
     setLoading(true);
     try {
-      // In a real implementation, you would verify the OTP with an edge function
-      // For this example, we'll proceed with the account deletion
-      
-      const { error } = await supabase.rpc('delete_user');
+      const { error } = await supabase.auth.admin.deleteUser(user?.id || '');
       
       if (error) throw error;
       

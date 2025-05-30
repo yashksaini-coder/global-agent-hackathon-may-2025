@@ -25,7 +25,7 @@ const queryClient = new QueryClient();
 
 // Define metadata for the page
 export const metadata = {
-  title: 'Spark Vest',
+  title: 'SparkVest',
   description: 'View and track real-time market data and stock prices',
 };
 
