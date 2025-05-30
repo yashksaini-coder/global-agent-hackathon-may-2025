@@ -107,7 +107,7 @@ Resources for each sponsor are available in the [resources](/resources) folder.
 ## ⏱️ Timeline
 
 - **April 15th** - Hackathon starts
-- **May 30th** - Hackathon ends
+- **June 1st** - Hackathon ends
 
 ## 🚀 How to Participate
 
