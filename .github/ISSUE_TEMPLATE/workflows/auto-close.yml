@@ -6,6 +6,10 @@ on:
   pull_request:
     types: [opened]
 
+permissions:
+  issues: write
+  pull-requests: write
+
 jobs:
   auto-close:
     runs-on: ubuntu-latest
@@ -16,12 +20,22 @@ jobs:
           script: |
             const isPR = !!context.payload.pull_request;
             const number = isPR ? context.payload.pull_request.number : context.payload.issue.number;
-            const type = isPR ? 'pulls' : 'issues';
-            await github.rest[type].update({
-              ...context.repo,
-              issue_number: number,
-              state: 'closed'
-            });
+
+            // Close the issue or PR
+            if (isPR) {
+              await github.rest.pulls.update({
+                ...context.repo,
+                pull_number: number,
+                state: 'closed'
+              });
+            } else {
+              await github.rest.issues.update({
+                ...context.repo,
+                issue_number: number,
+                state: 'closed'
+              });
+            }
+
             await github.rest.issues.createComment({
               ...context.repo,
               issue_number: number,
